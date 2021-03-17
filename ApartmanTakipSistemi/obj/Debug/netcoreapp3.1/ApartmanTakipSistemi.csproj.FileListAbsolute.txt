@@ -1,0 +1,13 @@
+D:\programlama\c# dersleri\ApartmanTakipSistemi\ApartmanTakipSistemi\bin\Debug\netcoreapp3.1\ApartmanTakipSistemi.exe
+D:\programlama\c# dersleri\ApartmanTakipSistemi\ApartmanTakipSistemi\bin\Debug\netcoreapp3.1\ApartmanTakipSistemi.deps.json
+D:\programlama\c# dersleri\ApartmanTakipSistemi\ApartmanTakipSistemi\bin\Debug\netcoreapp3.1\ApartmanTakipSistemi.runtimeconfig.json
+D:\programlama\c# dersleri\ApartmanTakipSistemi\ApartmanTakipSistemi\bin\Debug\netcoreapp3.1\ApartmanTakipSistemi.runtimeconfig.dev.json
+D:\programlama\c# dersleri\ApartmanTakipSistemi\ApartmanTakipSistemi\bin\Debug\netcoreapp3.1\ApartmanTakipSistemi.dll
+D:\programlama\c# dersleri\ApartmanTakipSistemi\ApartmanTakipSistemi\bin\Debug\netcoreapp3.1\ApartmanTakipSistemi.pdb
+D:\programlama\c# dersleri\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\netcoreapp3.1\ApartmanTakipSistemi.csprojAssemblyReference.cache
+D:\programlama\c# dersleri\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\netcoreapp3.1\ApartmanTakipSistemi.AssemblyInfoInputs.cache
+D:\programlama\c# dersleri\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\netcoreapp3.1\ApartmanTakipSistemi.AssemblyInfo.cs
+D:\programlama\c# dersleri\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\netcoreapp3.1\ApartmanTakipSistemi.csproj.CoreCompileInputs.cache
+D:\programlama\c# dersleri\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\netcoreapp3.1\ApartmanTakipSistemi.dll
+D:\programlama\c# dersleri\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\netcoreapp3.1\ApartmanTakipSistemi.pdb
+D:\programlama\c# dersleri\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\netcoreapp3.1\ApartmanTakipSistemi.genruntimeconfig.cache
